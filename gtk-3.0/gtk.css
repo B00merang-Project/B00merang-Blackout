@@ -2282,10 +2282,10 @@ panel-toplevel.background na-tray-applet {
       background-color: black; }
     .mate-panel-menu-bar #tasklist-button:active, .mate-panel-menu-bar #tasklist-button:checked {
       color: #000000;
-      border: none;
+      border: 1px solid #FFFFFF;
       box-shadow: none;
       background-image: none;
-      background-color: #FFFFFF; }
+      background-color: #000000; }
     .mate-panel-menu-bar #tasklist-button label {
       color: #000000; }
   .mate-panel-menu-bar PanelSeparator {
